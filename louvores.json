@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T16:26:46.355Z",
+  "updatedAt": "2026-11-25T16:32:10.273Z",
   "sessions": [
     {
       "id": "session-a-bencao-gratidao-nao-ha-lugar-me-ama-vida-aos-sepulcros",
@@ -2273,6 +2273,10 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQLa95fJgnr54u9zQkhzGzBKZVDBtq6Vwz4wcqbsC0Oq_tLUonVAJK2tX&s=10",
         "description": ""
+      },
+      "rhythm": {
+        "start": "medio",
+        "end": "agitado"
       },
       "videoBroadcast": {
         "enabled": true,
