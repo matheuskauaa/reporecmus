@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T20:11:03.462Z",
+  "updatedAt": "2026-11-26T20:18:55.687Z",
   "sessions": [
     {
       "id": "session-e-ele-toda-terra-oh-quao-lindo-esse-nome-e-e-tudo-sobre-voce",
@@ -186,8 +186,8 @@
           "title": "Pode Morar Aqui",
           "artist": "Theo Rubia",
           "startSec": 633,
-          "endSec": 761,
-          "timeRangeLabel": "10:33 - 12:41",
+          "endSec": 762,
+          "timeRangeLabel": "10:33 - 12:42",
           "lyrics": [
             "Tem fogo nos olhos",
             "Eu não imaginava",
@@ -205,7 +205,7 @@
         "kicker": "MINISTRAÇÃO",
         "name": "REC Music",
         "role": "REC Music",
-        "imageUrl": "https://i.ibb.co/xSk1FgD5/sada.png",
+        "imageUrl": "https://i.ibb.co/ds9bRvKD/image.jpg",
         "bio": "Condução de louvor gravada ao vivo com ministração espontânea."
       },
       "styleCategory": {
