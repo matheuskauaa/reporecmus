@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T20:23:30.678Z",
+  "updatedAt": "2026-11-26T20:31:24.798Z",
   "sessions": [
     {
       "id": "session-e-ele-toda-terra-oh-quao-lindo-esse-nome-e-e-tudo-sobre-voce",
@@ -789,7 +789,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Gravado ontem",
+      "recordedRelative": "Gravado há 4 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202211%20-%20tua%20voz%20me%20chama.m4a",
       "defaultDurationSec": 416,
       "waveformPeaks": [
@@ -888,6 +888,10 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://i1.sndcdn.com/artworks-000088840896-if5fmr-t500x500.jpg",
         "description": ""
+      },
+      "rhythm": {
+        "start": "calmo",
+        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
@@ -2278,9 +2282,9 @@
       "recordedDate": "28 de Outubro de 2026",
       "recordedIsoDate": "2026-10-28",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Culto há 3 semanas",
-      "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202810%20-%20Sobre%20as%20%C3%80guas%20%2B%20Fiel%20a%20Mim%20%2B%20Nada%20Pode%20Cal.m4a",
-      "defaultDurationSec": 618,
+      "recordedRelative": "Culto há 4 semanas",
+      "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202810%20-%20sobre%20as%20aguas.opus",
+      "defaultDurationSec": 573,
       "waveformPeaks": [
         0.48,
         0.62,
@@ -2422,8 +2426,8 @@
           "title": "Nada Pode Calar Um Adorador",
           "artist": "Eyshila - 2009",
           "startSec": 414,
-          "endSec": 618,
-          "timeRangeLabel": "06:54 - 10:18",
+          "endSec": 573,
+          "timeRangeLabel": "06:54 - 09:33",
           "lyrics": [
             "Adorador é tudo o que eu sou",
             "Adorador, assim Deus me formou",
@@ -2481,6 +2485,10 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9q9FJvLZIW55I0M42h5_JulKlaOlIy-HHp2zu5BrnNDw3_eMAELYZS38&s=10",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
+      },
+      "rhythm": {
+        "start": "medio",
+        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
@@ -2778,6 +2786,10 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQLa95fJgnr54u9zQkhzGzBKZVDBtq6Vwz4wcqbsC0Oq_tLUonVAJK2tX&s=10",
         "description": ""
       },
+      "rhythm": {
+        "start": "medio",
+        "end": "medio"
+      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -3038,6 +3050,10 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqkT5Fm-fPZKdVxGDRlhnzLhltcG6rDPVCrRmDODEigEVjtDc14pS_rA&s=10",
         "description": ""
+      },
+      "rhythm": {
+        "start": "calmo",
+        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
