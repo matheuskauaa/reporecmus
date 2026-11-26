@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T18:26:58.800Z",
+  "updatedAt": "2026-11-26T02:36:12.150Z",
   "sessions": [
     {
       "id": "session-a-bencao-gratidao-nao-ha-lugar-me-ama-vida-aos-sepulcros",
@@ -22,7 +22,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Culto há 3 dias",
+      "recordedRelative": "Ontem",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%20rec%20-%202211%20rafa.m4a",
       "defaultDurationSec": 1503,
       "waveformPeaks": [
@@ -247,10 +247,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUpi98rEtFUsli_nEMTEH53jNJVMZvj63bAr3Sp96MQ&s",
         "description": ""
       },
-      "rhythm": {
-        "start": "agitado",
-        "end": "agitado"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -280,7 +276,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Gravado há 3 dias",
+      "recordedRelative": "Gravado ontem",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%201122%20-%20Deus%20est%C3%A1%20aqui.m4a",
       "defaultDurationSec": 239,
       "waveformPeaks": [
@@ -381,10 +377,6 @@
         "imageUrl": "https://i.scdn.co/image/ab67616d00001e02ab183e10db302a51d43353a6",
         "description": ""
       },
-      "rhythm": {
-        "start": "calmo",
-        "end": "calmo"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -412,7 +404,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Gravado há 3 dias",
+      "recordedRelative": "Gravado ontem",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202211%20-%20tua%20voz%20me%20chama.m4a",
       "defaultDurationSec": 416,
       "waveformPeaks": [
@@ -512,10 +504,6 @@
         "imageUrl": "https://i1.sndcdn.com/artworks-000088840896-if5fmr-t500x500.jpg",
         "description": ""
       },
-      "rhythm": {
-        "start": "calmo",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -545,7 +533,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Gravado há 3 dias",
+      "recordedRelative": "Gravado ontem",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202211%20-%20poderoso%20deus.m4a",
       "defaultDurationSec": 875,
       "waveformPeaks": [
@@ -652,10 +640,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MV3HDAZonFMa4CentS1yOtEQDDKw3YMXU2yqtuoIyGHiQs51tZNmKDl8&s=10",
         "description": ""
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -684,7 +668,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Culto há 3 dias",
+      "recordedRelative": "Ontem",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%201122%20-%20vencendo%20vem%20jesus.m4a",
       "defaultDurationSec": 292,
       "waveformPeaks": [
@@ -780,10 +764,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHtGWzaBETgX3SW4VZGDCmnDP_ba2-BvsTusdWkEjUW37NVkHId1dbp4&s=10",
         "description": ""
       },
-      "rhythm": {
-        "start": "calmo",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -814,7 +794,7 @@
       "recordedDate": "18 de Novembro de 2026",
       "recordedIsoDate": "2026-11-18",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Culto há 7 dias",
+      "recordedRelative": "Publicado há 5 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%20backup%20-%201911-fogo-dos-teus-olhos.m4a",
       "defaultDurationSec": 616,
       "waveformPeaks": [
@@ -944,10 +924,6 @@
         "imageUrl": "https://i.scdn.co/image/ab67616d0000b273c21fddf03d5500004ff632cb",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
       },
-      "rhythm": {
-        "start": "agitado",
-        "end": "agitado"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -978,7 +954,7 @@
       "recordedDate": "18 de Novembro de 2026",
       "recordedIsoDate": "2026-11-18",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Há 1 semana",
+      "recordedRelative": "Gravado há 5 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%20backup%20-%201811-sublime.m4a",
       "defaultDurationSec": 684,
       "waveformPeaks": [
@@ -1118,10 +1094,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1zwoZgTLuadZx9PTFvfWpLWO_80ZAiiYx2Qc1LbhJA&s",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -1151,7 +1123,7 @@
       "recordedDate": "15 de Novembro de 2026",
       "recordedIsoDate": "2026-11-15",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Há 10 dias",
+      "recordedRelative": "Há 8 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%20backup%20-%201511-bondade-de-deus.m4a",
       "defaultDurationSec": 701,
       "waveformPeaks": [
@@ -1288,10 +1260,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwfFhUYRiyXMdaw4_vWScNOFR3D09QkIXgv__kQ0ZdR3ijAJoIe_LfxM&s=10",
         "description": ""
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -1322,7 +1290,7 @@
       "recordedDate": "15 de Novembro de 2026",
       "recordedIsoDate": "2026-11-15",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Publicado há 10 dias",
+      "recordedRelative": "Publicado há 8 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%20backup%20-%201511-ele-%C3%A9-deus%20(copac.m4a",
       "defaultDurationSec": 737,
       "waveformPeaks": [
@@ -1482,10 +1450,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fsPrWQX4VIdkLBX_MchFxiEiT1SHNMQOm2GxL-K-MA&s=10",
         "description": ""
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "agitado"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -1515,7 +1479,7 @@
       "recordedDate": "15 de Novembro de 2026",
       "recordedIsoDate": "2026-11-15",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Publicado há 10 dias",
+      "recordedRelative": "Publicado há 8 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/1511%20-%20voltemos%20ao%20inicio.AAC",
       "defaultDurationSec": 427,
       "waveformPeaks": [
@@ -1611,10 +1575,6 @@
         "imageUrl": "https://i.scdn.co/image/ab67616d0000b273b7d542d8f0c02ff0dff6cefd",
         "description": ""
       },
-      "rhythm": {
-        "start": "calmo",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -1643,7 +1603,7 @@
       "recordedDate": "15 de Novembro de 2026",
       "recordedIsoDate": "2026-11-15",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Publicado há 10 dias",
+      "recordedRelative": "Publicado há 8 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%20backup%20-%201511%20Yeshua.m4a",
       "defaultDurationSec": 362,
       "waveformPeaks": [
@@ -1732,10 +1692,6 @@
         "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e549f27ef031c98b0cec82f5",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "agitado"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -1746,6 +1702,153 @@
         "thumbnailUrl": "https://i.ytimg.com/vi/ngMsbY0LGOA/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBRlrQSy8EaTwGeWuE5k8xRFrUQmA",
         "videoUrl": "https://www.youtube.com/live/ngMsbY0LGOA?t=4662",
         "notes": "Registro integral do momento de adoração exibido na transmissão oficial."
+      }
+    },
+    {
+      "id": "session-teu-toque",
+      "slug": "teu-toque",
+      "href": "/p/teu-toque",
+      "isExample": false,
+      "createdAt": "2026-11-26T02:36:10.582Z",
+      "defaultTheme": "light",
+      "headerKicker": "GRAVAÇÃO AO VIVO",
+      "headerBrand": "REC Music",
+      "badgeLabel": "Culto de Ensino",
+      "titleParts": [
+        "TEU TOQUE"
+      ],
+      "recordedDate": "08 de Novembro de 2026",
+      "recordedIsoDate": "2026-11-08",
+      "relativeDateStyle": "gravado",
+      "recordedRelative": "Culto há 2 semanas",
+      "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%200811%20-%20teu%20toque.opus",
+      "defaultDurationSec": 319,
+      "waveformPeaks": [
+        0.48,
+        0.62,
+        0.71,
+        0.78,
+        0.64,
+        0.88,
+        0.72,
+        0.65,
+        0.9,
+        0.92,
+        0.84,
+        0.95,
+        0.75,
+        0.83,
+        0.58,
+        0.8,
+        0.85,
+        0.94,
+        0.79,
+        0.86,
+        0.9,
+        0.98,
+        0.92,
+        0.97,
+        1,
+        0.85,
+        0.71,
+        0.68,
+        0.76,
+        0.93,
+        0.96,
+        0.66,
+        0.75,
+        0.84,
+        0.88,
+        0.65,
+        0.35,
+        0.41,
+        0.28,
+        0.32
+      ],
+      "tracks": [
+        {
+          "id": "edit-1795660415914-1",
+          "number": "01",
+          "title": "Teu Toque",
+          "artist": "Gabi Sampaio e Nívea Soares",
+          "startSec": 0,
+          "endSec": 319,
+          "timeRangeLabel": "00:00 - 05:19",
+          "lyrics": [
+            "Como eu amo os momentos",
+            "Que eu passo Contigo",
+            "Onde encontro a paz",
+            "Que Tua palavra me traz",
+            "Para Ti, estou atento",
+            "Permaneço ouvindo",
+            "Aqui quero estar",
+            "-",
+            "Deus, meu coração quer mais de Ti",
+            "Faz algo novo em mim",
+            "E eu me entrego a Ti",
+            "-",
+            "Meu prazer é viver em Teu amor",
+            "Me envolver em Ti, Senhor",
+            "Meu desejo é Te conhecer",
+            "Jesus, abro a Ti meu coração",
+            "Os meus medos fugirão",
+            "O Teu toque é tudo o que eu quero",
+            "-",
+            "És o fogo do dia",
+            "E da noite, a brisa",
+            "O sopro em meu ser",
+            "O que me faz viver",
+            "-",
+            "Não há dúvida alguma",
+            "Do amor que revelas",
+            "A mais doce afeição",
+            "-",
+            "Deus, meu coração quer mais de Ti",
+            "Faz algo novo em mim",
+            "Me entrego a Ti",
+            "-",
+            "Meu prazer é viver em Teu amor",
+            "Me envolver em Ti, Senhor",
+            "Meu desejo é Te conhecer",
+            "Jesus, abro a Ti meu coração",
+            "Os meus medos fugirão",
+            "O Teu toque é tudo o que eu quero",
+            "-",
+            "Eu abro o coração a Ti",
+            "Eu abro o coração hoje aqui",
+            "Toca em mim com Teu poder",
+            "Faz em mim, Senhor, Teu querer"
+          ]
+        }
+      ],
+      "ministry": {
+        "kicker": "MINISTRAÇÃO",
+        "name": "Pr. Vinícius Diniz",
+        "role": "REC Music",
+        "imageUrl": "https://i.ibb.co/0V2QjTb9/F9-B99-FEE-91-AB-488-C-B7-D4-8451-A7-C345-C3.png",
+        "bio": "Condução de louvor gravada ao vivo com ministração espontânea."
+      },
+      "styleCategory": {
+        "kicker": "ESTILO & RAIZ",
+        "name": "Contemporâneo",
+        "subtitle": "Adoração Congregacional",
+        "imageUrl": "https://cdn-images.dzcdn.net/images/cover/7736c2dbab9c5df232040856ebc0d9e9/0x1900-000000-80-0-0.jpg",
+        "description": ""
+      },
+      "rhythm": {
+        "start": "medio",
+        "end": "medio"
+      },
+      "videoBroadcast": {
+        "enabled": true,
+        "title": "Culto em Vídeo",
+        "subtitle": "Disponível no canal oficial",
+        "badge": "TRANSMISSÃO AO VIVO",
+        "ctaText": "Ir direto para o momento do louvor",
+        "timestampLabel": "Início em 1:36:20",
+        "thumbnailUrl": "https://i.ytimg.com/vi/FQPoWH6lYOs/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDLzYEgrHgtG8a1W_CIAInlol0Zqw",
+        "videoUrl": "https://www.youtube.com/live/dxTBxSV5qAw?t=5794",
+        "notes": ""
       }
     },
     {
@@ -1766,7 +1869,7 @@
       "recordedDate": "28 de Outubro de 2026",
       "recordedIsoDate": "2026-10-28",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Culto há 4 semanas",
+      "recordedRelative": "Culto há 3 semanas",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202810%20-%20Sobre%20as%20%C3%80guas%20%2B%20Fiel%20a%20Mim%20%2B%20Nada%20Pode%20Cal.m4a",
       "defaultDurationSec": 618,
       "waveformPeaks": [
@@ -1970,10 +2073,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9q9FJvLZIW55I0M42h5_JulKlaOlIy-HHp2zu5BrnNDw3_eMAELYZS38&s=10",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "medio"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -2097,10 +2196,6 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://cdn-images.dzcdn.net/images/cover/894d99cd2ea0edaf5e577ecc9941df94/0x1900-000000-80-0-0.jpg",
         "description": ""
-      },
-      "rhythm": {
-        "start": "calmo",
-        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
@@ -2274,10 +2369,6 @@
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQLa95fJgnr54u9zQkhzGzBKZVDBtq6Vwz4wcqbsC0Oq_tLUonVAJK2tX&s=10",
         "description": ""
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "agitado"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -2412,10 +2503,6 @@
         "imageUrl": "https://cdn-images.dzcdn.net/images/cover/3c6d3679280bef4758984d8a51414292/0x1900-000000-80-0-0.jpg",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
       },
-      "rhythm": {
-        "start": "medio",
-        "end": "agitado"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -2542,10 +2629,6 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqkT5Fm-fPZKdVxGDRlhnzLhltcG6rDPVCrRmDODEigEVjtDc14pS_rA&s=10",
         "description": ""
-      },
-      "rhythm": {
-        "start": "calmo",
-        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
@@ -2861,10 +2944,6 @@
         "imageUrl": "https://m.media-amazon.com/images/I/716UI3lFX2L._UF1000,1000_QL80_.jpg",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
       },
-      "rhythm": {
-        "start": "calmo",
-        "end": "calmo"
-      },
       "videoBroadcast": {
         "enabled": true,
         "title": "Culto em Vídeo",
@@ -3039,10 +3118,6 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13zLYjZVh8bsv9MLBGW50baBspfvRhspHeu1HRTlTtg&s",
         "description": "Medley contínuo com transições ao vivo e participação da igreja."
-      },
-      "rhythm": {
-        "start": "medio",
-        "end": "agitado"
       },
       "videoBroadcast": {
         "enabled": true,
