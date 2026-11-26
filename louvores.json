@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T02:36:12.150Z",
+  "updatedAt": "2026-11-26T19:01:34.998Z",
   "sessions": [
     {
       "id": "session-a-bencao-gratidao-nao-ha-lugar-me-ama-vida-aos-sepulcros",
@@ -533,7 +533,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Gravado ontem",
+      "recordedRelative": "Gravado há 4 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%202211%20-%20poderoso%20deus.m4a",
       "defaultDurationSec": 875,
       "waveformPeaks": [
@@ -605,8 +605,8 @@
           "title": "Eu Só Quero Adorar",
           "artist": "Gerson Rufino",
           "startSec": 493,
-          "endSec": 875,
-          "timeRangeLabel": "08:13 - 14:35",
+          "endSec": 793,
+          "timeRangeLabel": "08:13 - 13:13",
           "lyrics": [
             "Eu não sei o que Ele viu em mim",
             "Não entendo por que me amou",
@@ -624,6 +624,25 @@
             "Mas de uma coisa eu sei",
             "Tudo que eu tenho Ele me deu"
           ]
+        },
+        {
+          "id": "edit-1795719638420",
+          "number": "03",
+          "title": "Espirito de Adorador",
+          "artist": "Nani Azevedo",
+          "startSec": 793,
+          "endSec": 875,
+          "timeRangeLabel": "13:13 - 14:35",
+          "lyrics": [
+            "Mesmo que não haja peixes no mar",
+            "Mesmo que não haja estrelas no céu",
+            "Mesmo que o Sol venha escurecer",
+            "O meu Deus permanece fiel",
+            "-",
+            "Eu não posso retroceder",
+            "Meu espírito é de adorador",
+            "Te amo, te adoro, Senhor"
+          ]
         }
       ],
       "ministry": {
@@ -639,6 +658,10 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6MV3HDAZonFMa4CentS1yOtEQDDKw3YMXU2yqtuoIyGHiQs51tZNmKDl8&s=10",
         "description": ""
+      },
+      "rhythm": {
+        "start": "medio",
+        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
@@ -1825,7 +1848,7 @@
         "kicker": "MINISTRAÇÃO",
         "name": "Pr. Vinícius Diniz",
         "role": "REC Music",
-        "imageUrl": "https://i.ibb.co/Xr4G65r1/F9-B99-FEE-91-AB-488-C-B7-D4-8451-A7-C345-C3.png",
+        "imageUrl": "https://i.ibb.co/0V2QjTb9/F9-B99-FEE-91-AB-488-C-B7-D4-8451-A7-C345-C3.png",
         "bio": "Condução de louvor gravada ao vivo com ministração espontânea."
       },
       "styleCategory": {
