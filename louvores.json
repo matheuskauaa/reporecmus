@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T20:31:24.798Z",
+  "updatedAt": "2026-11-26T20:42:44.566Z",
   "sessions": [
     {
       "id": "session-e-ele-toda-terra-oh-quao-lindo-esse-nome-e-e-tudo-sobre-voce",
@@ -918,7 +918,7 @@
       "titleParts": [
         "PODEROSO DEUS",
         "EU SÓ QUERO ADORAR",
-        "ESPIRITO DE ADORADOR"
+        "ESPÍRITO DE ADORADOR"
       ],
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
@@ -1018,7 +1018,7 @@
         {
           "id": "edit-1795719638420",
           "number": "03",
-          "title": "Espirito de Adorador",
+          "title": "Espírito de Adorador",
           "artist": "Nani Azevedo",
           "startSec": 793,
           "endSec": 875,
@@ -1081,7 +1081,7 @@
       "recordedDate": "22 de Novembro de 2026",
       "recordedIsoDate": "2026-11-22",
       "relativeDateStyle": "gravado",
-      "recordedRelative": "Ontem",
+      "recordedRelative": "Culto há 4 dias",
       "audioSrc": "https://pub-ccd089c74f1e4135a7f0d98c9cc3da47.r2.dev/00%20-%201122%20-%20vencendo%20vem%20jesus.m4a",
       "defaultDurationSec": 292,
       "waveformPeaks": [
@@ -1176,6 +1176,10 @@
         "subtitle": "Adoração Congregacional",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHtGWzaBETgX3SW4VZGDCmnDP_ba2-BvsTusdWkEjUW37NVkHId1dbp4&s=10",
         "description": ""
+      },
+      "rhythm": {
+        "start": "calmo",
+        "end": "medio"
       },
       "videoBroadcast": {
         "enabled": true,
